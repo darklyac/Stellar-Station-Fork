@@ -1,0 +1,491 @@
+- type: entity
+  parent: Error
+  id: AirlockBoxerLocked
+
+- type: entity
+  parent: Error
+  id: AirlockChiefJusticeLocked
+
+- type: entity
+  parent: Error
+  id: AirlockClerkLocked
+
+- type: entity
+  parent: Error
+  id: AirlockCorpsmanGlassLocked
+
+- type: entity
+  parent: Error
+  id: AirlockExternalGlassShuttleShipyard
+
+- type: entity
+  parent: Error
+  id: AirlockJusticeGlassLocked
+
+- type: entity
+  parent: Error
+  id: AirlockMaintJusticeLocked
+
+- type: entity
+  parent: Error
+  id: AirlockMaintMantisLocked
+
+- type: entity
+  parent: Error
+  id: AirlockMaintReporterLocked
+
+- type: entity
+  parent: Error
+  id: AirlockMantisLocked
+
+- type: entity
+  parent: Error
+  id: AirlockParamedicGlassLocked
+
+- type: entity
+  parent: Error
+  id: AirlockRoboticsGlassLocked
+
+- type: entity
+  parent: Error
+  id: AirlockRoboticsLocked
+
+- type: entity
+  parent: Error
+  id: BenchParkLeft
+
+- type: entity
+  parent: Error
+  id: BenchParkMiddle
+
+- type: entity
+  parent: Error
+  id: BenchParkRight
+
+- type: entity
+  parent: Error
+  id: BenchPewLeft
+
+- type: entity
+  parent: Error
+  id: BenchPewMiddle
+
+- type: entity
+  parent: Error
+  id: BenchPewRight
+
+- type: entity
+  parent: Error
+  id: BenchSofaCorner
+
+- type: entity
+  parent: Error
+  id: BenchSofaCorpLeft
+
+- type: entity
+  parent: Error
+  id: BenchSofaCorpMiddle
+
+- type: entity
+  parent: Error
+  id: BenchSofaCorpRight
+
+- type: entity
+  parent: Error
+  id: BenchSofaLeft
+
+- type: entity
+  parent: Error
+  id: BenchSofaRight
+
+- type: entity
+  parent: Error
+  id: BlastDoorUnlinkedSecurityOpen
+
+- type: entity
+  parent: Error
+  id: ClosetWallOrangeFilled
+
+- type: entity
+  parent: Error
+  id: ComputerCargoOrdersJustice
+
+- type: entity
+  parent: Error
+  id: ComputerShipyard
+
+- type: entity
+  parent: Error
+  id: DefaultStationBeaconBoxing
+
+- type: entity
+  parent: Error
+  id: DefaultStationBeaconChiefJustice
+
+- type: entity
+  parent: Error
+  id: DefaultStationBeaconClerk
+
+- type: entity
+  parent: Error
+  id: DefaultStationBeaconConferenceRoom
+
+- type: entity
+  parent: Error
+  id: DefaultStationBeaconCorpsman
+
+- type: entity
+  parent: Error
+  id: DefaultStationBeaconEngiOutpost
+
+- type: entity
+  parent: Error
+  id: DefaultStationBeaconJustice
+
+- type: entity
+  parent: Error
+  id: DefaultStationBeaconMailroom
+
+- type: entity
+  parent: Error
+  id: DefaultStationBeaconMantis
+
+- type: entity
+  parent: Error
+  id: DefaultStationBeaconMedicalOutpost
+
+- type: entity
+  parent: Error
+  id: DefaultStationBeaconMetempsychosis
+
+- type: entity
+  parent: Error
+  id: DefaultStationBeaconProber
+
+- type: entity
+  parent: Error
+  id: DefaultStationBeaconPsychologist
+
+- type: entity
+  parent: Error
+  id: DVSmartFridgeMedical
+
+- type: entity
+  parent: Error
+  id: EngineeringTechFab
+
+- type: entity
+  parent: Error
+  id: EpistemicsTechFab
+
+- type: entity
+  parent: Error
+  id: Gavel
+
+- type: entity
+  parent: Error
+  id: GavelBlock
+
+- type: entity
+  parent: Error
+  id: GlimmerProber
+
+- type: entity
+  parent: Error
+  id: HandgunSafeSpawner
+
+- type: entity
+  parent: Error
+  id: HolopadEngineeringParticleAccelerator
+
+- type: entity
+  parent: Error
+  id: HolopadGeneralPark
+
+- type: entity
+  parent: Error
+  id: HolopadSecurityCorpsman
+
+- type: entity
+  parent: Error
+  id: HolopadServiceToolroom
+
+- type: entity
+  parent: Error
+  id: KitchenDeepFryer
+
+- type: entity
+  parent: Error
+  id: LockerAdministrativeAssistantFilled
+
+- type: entity
+  parent: Error
+  id: LockerBrigmedicFilledHardsuit
+
+- type: entity
+  parent: Error
+  id: LockerChiefJusticeFilled
+
+- type: entity
+  parent: Error
+  id: LockerClerkFilled
+
+- type: entity
+  parent: Error
+  id: LockerForensicMantis
+
+- type: entity
+  parent: Error
+  id: LockerPsychologist
+
+- type: entity
+  parent: Error
+  id: LockerSurgeon
+
+- type: entity
+  parent: Error
+  id: LogisticsTechFab
+
+- type: entity
+  parent: Error
+  id: MailTeleporter
+
+- type: entity
+  parent: Error
+  id: N14TableMetalGrate
+
+- type: entity
+  parent: Error
+  id: OperatingTableAdvanced
+
+- type: entity
+  parent: Error
+  id: PillMindbreakerToxin
+
+- type: entity
+  parent: Error
+  id: PlushieMothRandom
+
+- type: entity
+  parent: Error
+  id: PoweredSmallLightMaintenance
+
+- type: entity
+  parent: Error
+  id: RailingCornerDeltaV
+
+- type: entity
+  parent: Error
+  id: RailingDeltaV
+
+- type: entity
+  parent: Error
+  id: RandomAnimalSpawner
+
+- type: entity
+  parent: Error
+  id: ReverseEngineeringMachine
+
+- type: entity
+  parent: Error
+  id: RifleSafeSpawner
+
+- type: entity
+  parent: Error
+  id: SecBreachingHammer
+
+- type: entity
+  parent: Error
+  id: ServiceTechFab
+
+- type: entity
+  parent: Error
+  id: ShotgunSafeSpawner
+
+- type: entity
+  parent: Error
+  id: SignBrigmed
+
+- type: entity
+  parent: Error
+  id: SignDirectionaAI
+
+- type: entity
+  parent: Error
+  id: SignDirectionaCourt
+
+- type: entity
+  parent: Error
+  id: SignDirectionalJustice
+
+- type: entity
+  parent: Error
+  id: SignDirectionalLogistics
+
+- type: entity
+  parent: Error
+  id: SignDisposalProper
+
+- type: entity
+  parent: Error
+  id: SpaceDisposalUnit
+
+- type: entity
+  parent: Error
+  id: SpawnMobCMOPetSilvia
+
+- type: entity
+  parent: Error
+  id: SpawnPointAdminAssistant
+
+- type: entity
+  parent: Error
+  id: SpawnPointPrisoner
+
+- type: entity
+  parent: Error
+  id: SuperweaponSafeSpawner
+
+- type: entity
+  parent: Error
+  id: TableWoodReinforced
+
+- type: entity
+  parent: Error
+  id: VendingMachineBoozeCommand
+
+- type: entity
+  parent: Error
+  id: VendingMachineRepDrobe
+
+- type: entity
+  parent: Error
+  id: WarpPointAI
+
+- type: entity
+  parent: Error
+  id: WarpPointArrivals
+
+- type: entity
+  parent: Error
+  id: WarpPointAtmos
+
+- type: entity
+  parent: Error
+  id: WarpPointBar
+
+- type: entity
+  parent: Error
+  id: WarpPointBridge
+
+- type: entity
+  parent: Error
+  id: WarpPointChapel
+
+- type: entity
+  parent: Error
+  id: WarpPointCourt
+
+- type: entity
+  parent: Error
+  id: WarpPointCryo
+
+- type: entity
+  parent: Error
+  id: WarpPointDetective
+
+- type: entity
+  parent: Error
+  id: WarpPointDisposals
+
+- type: entity
+  parent: Error
+  id: WarpPointEngineering
+
+- type: entity
+  parent: Error
+  id: WarpPointEpistemics
+
+- type: entity
+  parent: Error
+  id: WarpPointEvac
+
+- type: entity
+  parent: Error
+  id: WarpPointHOP
+
+- type: entity
+  parent: Error
+  id: WarpPointJanitor
+
+- type: entity
+  parent: Error
+  id: WarpPointKitchen
+
+- type: entity
+  parent: Error
+  id: WarpPointLawyer
+
+- type: entity
+  parent: Error
+  id: WarpPointLogistics
+
+- type: entity
+  parent: Error
+  id: WarpPointMedical
+
+- type: entity
+  parent: Error
+  id: WarpPointMorgue
+
+- type: entity
+  parent: Error
+  id: WarpPointPerma
+
+- type: entity
+  parent: Error
+  id: WarpPointReporter
+
+- type: entity
+  parent: Error
+  id: WarpPointSalvage
+
+- type: entity
+  parent: Error
+  id: WarpPointSecurity
+
+- type: entity
+  parent: Error
+  id: WarpPointSingulo
+
+- type: entity
+  parent: Error
+  id: WeaponDisablerSelfCharge
+
+- type: entity
+  parent: Error
+  id: WeaponTurretAI
+
+- type: entity
+  parent: Error
+  id: WindoorSecureCorpsmanLocked
+
+- type: entity
+  parent: Error
+  id: WindoorSecureJusticeLocked
+
+- type: entity
+  parent: Error
+  id: WindoorSecureLibraryLocked
+
+- type: entity
+  parent: Error
+  id: WindoorSecureMusicianLocked
+
+- type: entity
+  parent: Error
+  id: WindoorSecureReporterLocked
+
+- type: entity
+  parent: Error
+  id: WindoorSecureRoboticsLocked
