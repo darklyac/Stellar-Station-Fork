@@ -99,3 +99,37 @@
   id: 12
   time: '2025-07-14T06:41:12.0000000+00:00'
   url: https://github.com/Stellar-Station/Stellar-Station/pull/29
+- author: AftrLite
+  changes:
+  - message: 'Flavor/fluff job: Cleric! Comes with a prayer book.'
+    type: Add
+  - message: The chaplain has been airlocked. Permanently.
+    type: Remove
+  - message: References to real-world religions have been erased.
+    type: Remove
+  id: 13
+  time: '2025-07-15T05:50:12.0000000+00:00'
+  url: https://github.com/Stellar-Station/Stellar-Station/pull/33
+- author: AftrLite
+  changes:
+  - message: Malign wall sprite updated again.
+    type: Tweak
+  id: 14
+  time: '2025-07-15T06:31:17.0000000+00:00'
+  url: https://github.com/Stellar-Station/Stellar-Station/pull/34
+- author: sowelipililimute
+  changes:
+  - message: Borgs now have job-specific lawsets
+    type: Add
+  - message: Crewsimov is gone
+    type: Remove
+  id: 15
+  time: '2025-07-16T21:31:32.0000000+00:00'
+  url: https://github.com/Stellar-Station/Stellar-Station/pull/35
+- author: AftrLite
+  changes:
+  - message: More respritening.
+    type: Add
+  id: 16
+  time: '2025-07-19T03:41:07.0000000+00:00'
+  url: https://github.com/Stellar-Station/Stellar-Station/pull/36
