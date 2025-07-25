@@ -1,3 +1,8 @@
+// SPDX-FileCopyrightText: 2025 AftrLite
+// SPDX-FileCopyrightText: 2025 Janet Blackquill <uhhadd@gmail.com>
+//
+// SPDX-License-Identifier: LicenseRef-CosmicCult
+
 using Content.Server.Popups;
 using Content.Stellar.Shared.CosmicCult;
 using Content.Stellar.Shared.CosmicCult.Components;
@@ -33,7 +38,7 @@ public sealed class CosmicHibernateSystem : EntitySystem
         comp.HibernationTimer = comp.HibernationWait + _timing.CurTime;
         _appearance.SetData(ent, ColossusVisuals.Status, ColossusStatus.Action);
         _appearance.SetData(ent, ColossusVisuals.Hibernation, ColossusAction.Running);
-        _stun.TryStun(ent, comp.HibernationWait, true);
+        _stun.TryUpdateStunDuration(ent, comp.HibernationWait);
         _popup.PopupCoordinates(
             Loc.GetString("ghost-role-colossus-hibernate"),
             Transform(ent).Coordinates,
