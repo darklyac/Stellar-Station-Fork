@@ -133,3 +133,33 @@
   id: 16
   time: '2025-07-19T03:41:07.0000000+00:00'
   url: https://github.com/Stellar-Station/Stellar-Station/pull/36
+- author: AftrLite
+  changes:
+  - message: Respritening; Branding/logo updates.
+    type: Add
+  id: 17
+  time: '2025-07-27T23:00:18.0000000+00:00'
+  url: https://github.com/Stellar-Station/Stellar-Station/pull/78
+- author: sowelipililimute
+  changes:
+  - message: All windoors are now Stellar windoors
+    type: Tweak
+  id: 18
+  time: '2025-07-21T22:40:41.0000000+00:00'
+  url: https://github.com/Stellar-Station/Stellar-Station/pull/43
+- author: AftrLite
+  changes:
+  - message: More respritening; Species & ghosts!
+    type: Add
+  - message: Drop shadows now adjust when prone/crawling.
+    type: Add
+  id: 19
+  time: '2025-07-28T06:35:56.0000000+00:00'
+  url: https://github.com/Stellar-Station/Stellar-Station/pull/37
+- author: AftrLite
+  changes:
+  - message: Ephemeral Space's Radio falloff system now enfuzzifies your transmissions.
+    type: Add
+  id: 20
+  time: '2025-07-28T10:25:10.0000000+00:00'
+  url: https://github.com/Stellar-Station/Stellar-Station/pull/79
